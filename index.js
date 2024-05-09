@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to MP - MultiPixel"];
+const statusMessages = ["MP - MultiPixel"];
 
 
 let currentIndex = 0;
